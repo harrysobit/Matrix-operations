@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Numeric Matrix Processor/task" />
+            <option value="$PROJECT_DIR$/Topics/Arrays as parameters/Adding values" />
+            <option value="$PROJECT_DIR$/Topics/Arrays as parameters/Inverse boolean flags" />
+            <option value="$PROJECT_DIR$/Topics/Arrays as parameters/Sorting numbers" />
+            <option value="$PROJECT_DIR$/Topics/Arrays as parameters/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Branching statements/Bus tour" />
+            <option value="$PROJECT_DIR$/Topics/Branching statements/Even or odd" />
+            <option value="$PROJECT_DIR$/Topics/Branching statements/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Comparable/Implement compareTo method" />
+            <option value="$PROJECT_DIR$/Topics/Comparable/Implement comparing by additional fields" />
+            <option value="$PROJECT_DIR$/Topics/Comparable/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement/Healthy sleep" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement/The army of units" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement/Triangle" />
+            <option value="$PROJECT_DIR$/Topics/Constructor/Account" />
+            <option value="$PROJECT_DIR$/Topics/Constructor/Account and its owner" />
+            <option value="$PROJECT_DIR$/Topics/Constructor/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Declaring a method/Division" />
+            <option value="$PROJECT_DIR$/Topics/Declaring a method/Find the max of three numbers" />
+            <option value="$PROJECT_DIR$/Topics/Declaring a method/The sign of a number" />
+            <option value="$PROJECT_DIR$/Topics/Declaring a method/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Defining classes/Accounts" />
+            <option value="$PROJECT_DIR$/Topics/Defining classes/Inner boxes" />
+            <option value="$PROJECT_DIR$/Topics/Defining classes/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types/Distance" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types/Exponential expression" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types/Find X" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types/Liquid pressure" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Functional decomposition/Calculator with four methods" />
+            <option value="$PROJECT_DIR$/Topics/Functional decomposition/Decompose a math function" />
+            <option value="$PROJECT_DIR$/Topics/Functional decomposition/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Getters and setters/Account" />
+            <option value="$PROJECT_DIR$/Topics/Getters and setters/Book" />
+            <option value="$PROJECT_DIR$/Topics/Getters and setters/Complex" />
+            <option value="$PROJECT_DIR$/Topics/Getters and setters/Getting the fullname" />
+            <option value="$PROJECT_DIR$/Topics/Getters and setters/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Instance methods/Car" />
+            <option value="$PROJECT_DIR$/Topics/Instance methods/Complex numbers" />
+            <option value="$PROJECT_DIR$/Topics/Instance methods/Patient needs a doctor" />
+            <option value="$PROJECT_DIR$/Topics/Instance methods/Simulating a clock" />
+            <option value="$PROJECT_DIR$/Topics/Instance methods/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Arithmetic expression" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Difference of times" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/First digit" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Next even number" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Reversing input numbers" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Squirrels and nuts" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Interface/Area of a circle" />
+            <option value="$PROJECT_DIR$/Topics/Interface/Mutable geometric shapes" />
+            <option value="$PROJECT_DIR$/Topics/Interface/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Iterating over arrays/Count how many times a number occurs" />
+            <option value="$PROJECT_DIR$/Topics/Iterating over arrays/Does an array contain N" />
+            <option value="$PROJECT_DIR$/Topics/Iterating over arrays/Sum array elements greater than a value" />
+            <option value="$PROJECT_DIR$/Topics/Iterating over arrays/The sum of array elements" />
+            <option value="$PROJECT_DIR$/Topics/Iterating over arrays/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Math library/Heron's formula" />
+            <option value="$PROJECT_DIR$/Topics/Math library/Pow" />
+            <option value="$PROJECT_DIR$/Topics/Math library/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Multidimensional array/Rotate a rectangle array" />
+            <option value="$PROJECT_DIR$/Topics/Multidimensional array/The star figure" />
+            <option value="$PROJECT_DIR$/Topics/Multidimensional array/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Objects/Army" />
+            <option value="$PROJECT_DIR$/Topics/Objects/Change identities" />
+            <option value="$PROJECT_DIR$/Topics/Objects/Preparing full name" />
+            <option value="$PROJECT_DIR$/Topics/Objects/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Package/Binary search" />
+            <option value="$PROJECT_DIR$/Topics/Package/Creating instances" />
+            <option value="$PROJECT_DIR$/Topics/Package/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Convert a date" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Double characters" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Find the first occurrence of the word  the" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Palindrome" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Piece of alphabet" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/The longest word" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/The lucky ticket" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Recursion/Alternating Fibonacci numbers" />
+            <option value="$PROJECT_DIR$/Topics/Recursion/Fix the method to print strings in the reverse order" />
+            <option value="$PROJECT_DIR$/Topics/Recursion/K-combination" />
+            <option value="$PROJECT_DIR$/Topics/Recursion/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Relational operators/Check the sum" />
+            <option value="$PROJECT_DIR$/Topics/Relational operators/Check the value" />
+            <option value="$PROJECT_DIR$/Topics/Relational operators/Check the value (1)" />
+            <option value="$PROJECT_DIR$/Topics/Relational operators/Groundhogs at a party" />
+            <option value="$PROJECT_DIR$/Topics/Relational operators/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Scanning the input/Guest list of a hotel" />
+            <option value="$PROJECT_DIR$/Topics/Scanning the input/Hiring a chef" />
+            <option value="$PROJECT_DIR$/Topics/Scanning the input/Print strings in the reverse order" />
+            <option value="$PROJECT_DIR$/Topics/Scanning the input/Printing strings in the same order" />
+            <option value="$PROJECT_DIR$/Topics/Scanning the input/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Static members/Project constants and methods" />
+            <option value="$PROJECT_DIR$/Topics/Static members/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Static members/Time constants" />
+            <option value="$PROJECT_DIR$/Topics/String/Check burgs" />
+            <option value="$PROJECT_DIR$/Topics/String/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Switch statement/A simple calculator" />
+            <option value="$PROJECT_DIR$/Topics/Switch statement/Direction" />
+            <option value="$PROJECT_DIR$/Topics/Switch statement/From string to a number" />
+            <option value="$PROJECT_DIR$/Topics/Switch statement/Shape" />
+            <option value="$PROJECT_DIR$/Topics/Switch statement/Theory" />
+            <option value="$PROJECT_DIR$/Topics/The for-loop/Fizz Buzz" />
+            <option value="$PROJECT_DIR$/Topics/The for-loop/The count of numbers divisible by N" />
+            <option value="$PROJECT_DIR$/Topics/The for-loop/The product of numbers from a to b" />
+            <option value="$PROJECT_DIR$/Topics/The for-loop/The roots of an equation" />
+            <option value="$PROJECT_DIR$/Topics/The for-loop/The sum of integers from a to b" />
+            <option value="$PROJECT_DIR$/Topics/The for-loop/Theory" />
+            <option value="$PROJECT_DIR$/Topics/The while and do-while loops/The largest element of a sequence" />
+            <option value="$PROJECT_DIR$/Topics/The while and do-while loops/The sequence" />
+            <option value="$PROJECT_DIR$/Topics/The while and do-while loops/Theory" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
